@@ -1,0 +1,73 @@
+.kitten {
+color: #f352da;
+}
+
+.deck {
+color: #19bcfc;
+}
+
+html{
+background-color: #f7d9f2;
+font-family: cursive;
+}
+
+h1{
+border: solid;
+border-color: #556b2f;
+}
+
+button {
+color: #black;
+background-color: #a6d608;
+}
+
+#ebayG {
+color: #a6d608;
+text-decoration: underline;
+}
+
+#D {
+color: #8fd400;
+}
+
+hr {
+border-color: #d5f4da;
+}
+#div1 {
+width: 500px;
+padding: 20px;
+}
+
+#div2 {
+width: 450px;
+padding: 20px;
+}
+
+h2 {
+padding: 20px;
+}
+
+#divBild {
+background-color: #d89bce;
+width: 900px;
+height: 500px;
+border: 10px solid #ffbdde;
+margin: 50px;
+display: flex;
+flex-direction: row-reverse;
+}
+
+#boxxx {
+display: flex;
+}
+#divB1 {
+background-color: #141414
+width: 100px;
+height: 200px;
+padding: 37px 0px 0px 0px;
+}
+#divB2 {
+background-color: #141414
+width: 100px;
+height: 200px;
+padding: 37px 0px 0px 0px;
